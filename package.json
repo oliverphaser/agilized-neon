@@ -3,7 +3,9 @@
     "displayName": "Agilized Neon",
     "description": "Agilized Neon Theme",
     "publisher": "rfcorp",
+    "repository": "https://github.com/oliverphaser/agilized-neon",
     "version": "1.0.0",
+    "icon": "https://github.com/oliverphaser/agilized-neon/images/icon.png",
     "engines": {
         "vscode": "^1.61.0"
     },
